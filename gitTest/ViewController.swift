@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
 func testDoc()
     {
-        
+        title = "test"
     }
 }
 
